@@ -3,7 +3,7 @@
 ## Intern Details
 
 * Name: Vivek Kumar Das
-* Internship: Python Programming Internship
+* Internship Id: CTTS145
 * Organization: CODTECH IT SOLUTIONS
 * Duration: 4 Weeks
 
